@@ -1,0 +1,17 @@
+D:\repos\DietApp\DietApp.DAL\bin\Debug\net6.0\DietApp.DAL.deps.json
+D:\repos\DietApp\DietApp.DAL\bin\Debug\net6.0\DietApp.DAL.runtimeconfig.json
+D:\repos\DietApp\DietApp.DAL\bin\Debug\net6.0\DietApp.DAL.dll
+D:\repos\DietApp\DietApp.DAL\bin\Debug\net6.0\DietApp.DAL.pdb
+D:\repos\DietApp\DietApp.DAL\bin\Debug\net6.0\DietApp.Entities.dll
+D:\repos\DietApp\DietApp.DAL\bin\Debug\net6.0\DietApp.Entities.pdb
+D:\repos\DietApp\DietApp.DAL\obj\Debug\net6.0\DietApp.DAL.csproj.AssemblyReference.cache
+D:\repos\DietApp\DietApp.DAL\obj\Debug\net6.0\DietApp.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\DietApp\DietApp.DAL\obj\Debug\net6.0\DietApp.DAL.AssemblyInfoInputs.cache
+D:\repos\DietApp\DietApp.DAL\obj\Debug\net6.0\DietApp.DAL.AssemblyInfo.cs
+D:\repos\DietApp\DietApp.DAL\obj\Debug\net6.0\DietApp.DAL.csproj.CoreCompileInputs.cache
+D:\repos\DietApp\DietApp.DAL\obj\Debug\net6.0\DietApp.DAL.csproj.CopyComplete
+D:\repos\DietApp\DietApp.DAL\obj\Debug\net6.0\DietApp.DAL.dll
+D:\repos\DietApp\DietApp.DAL\obj\Debug\net6.0\refint\DietApp.DAL.dll
+D:\repos\DietApp\DietApp.DAL\obj\Debug\net6.0\DietApp.DAL.pdb
+D:\repos\DietApp\DietApp.DAL\obj\Debug\net6.0\DietApp.DAL.genruntimeconfig.cache
+D:\repos\DietApp\DietApp.DAL\obj\Debug\net6.0\ref\DietApp.DAL.dll
