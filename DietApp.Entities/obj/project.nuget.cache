@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9WsTgDTDuibJQEMO+5tw8S0eHV69aqQobpiUvf7UKRbbifHz+lr6sG3h+oIwD3DJ7Q+/RHDr1M2EVB6OWngr7w==",
+  "dgSpecHash": "DsB5mDI7jnbF3ZEUQ2/g/PUlQ1NRoB8IBUveqRRc1VedGzYz9HEY7esNa6OLl8cpQGyyIVHYij8Mu4p22Na6gQ==",
   "success": true,
-  "projectFilePath": "D:\\repos\\DietApp\\DietApp.Entities\\DietApp.Entities.csproj",
+  "projectFilePath": "D:\\repos\\MyGitHubSpace-DietApp\\DietApp.Entities\\DietApp.Entities.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

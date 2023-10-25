@@ -643,6 +643,7 @@
             LoginPanel_tb_Password.Location = new Point(18, 58);
             LoginPanel_tb_Password.MaxLength = 100;
             LoginPanel_tb_Password.Name = "LoginPanel_tb_Password";
+            LoginPanel_tb_Password.PasswordChar = '*';
             LoginPanel_tb_Password.PlaceholderText = "Şifre";
             LoginPanel_tb_Password.Size = new Size(206, 23);
             LoginPanel_tb_Password.TabIndex = 2;

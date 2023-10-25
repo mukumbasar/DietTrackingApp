@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\repos\\DietApp\\DietApp.Entities\\DietApp.Entities.csproj",
+      "projectUniqueName": "D:\\repos\\MyGitHubSpace-DietApp\\DietApp.Entities\\DietApp.Entities.csproj",
       "projectName": "DietApp.Entities",
-      "projectPath": "D:\\repos\\DietApp\\DietApp.Entities\\DietApp.Entities.csproj",
+      "projectPath": "D:\\repos\\MyGitHubSpace-DietApp\\DietApp.Entities\\DietApp.Entities.csproj",
       "packagesPath": "C:\\Users\\mehme\\.nuget\\packages\\",
-      "outputPath": "D:\\repos\\DietApp\\DietApp.Entities\\obj\\",
+      "outputPath": "D:\\repos\\MyGitHubSpace-DietApp\\DietApp.Entities\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mehme\\AppData\\Roaming\\NuGet\\NuGet.Config",

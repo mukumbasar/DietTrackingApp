@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JnVfrR/Ted/86ZIQnQW3xlJZ/DqOAPSPRUBkE82SY5QYTcN9a0naFAoiyXb3OguwK1+jN6O3mtenwSt6Wma3FQ==",
+  "dgSpecHash": "n70mHqbVVmaNrzy1l1Ws4JUS0QAmb2VKCaXUBsqRxf1U4jbGdZgGDvK6fSLTr9qyIh0RPjdsPC69/DmOXfkoiQ==",
   "success": true,
-  "projectFilePath": "D:\\repos\\DietApp\\DietApp.PL\\DietApp.PL.csproj",
+  "projectFilePath": "D:\\repos\\MyGitHubSpace-DietApp\\DietApp.PL\\DietApp.PL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mehme\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\mehme\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

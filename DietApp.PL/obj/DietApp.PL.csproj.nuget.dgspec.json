@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\repos\\DietApp\\DietApp.PL\\DietApp.PL.csproj": {}
+    "D:\\repos\\MyGitHubSpace-DietApp\\DietApp.PL\\DietApp.PL.csproj": {}
   },
   "projects": {
-    "D:\\repos\\DietApp\\DietApp.BL\\DietApp.BL.csproj": {
+    "D:\\repos\\MyGitHubSpace-DietApp\\DietApp.BL\\DietApp.BL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\repos\\DietApp\\DietApp.BL\\DietApp.BL.csproj",
+        "projectUniqueName": "D:\\repos\\MyGitHubSpace-DietApp\\DietApp.BL\\DietApp.BL.csproj",
         "projectName": "DietApp.BL",
-        "projectPath": "D:\\repos\\DietApp\\DietApp.BL\\DietApp.BL.csproj",
+        "projectPath": "D:\\repos\\MyGitHubSpace-DietApp\\DietApp.BL\\DietApp.BL.csproj",
         "packagesPath": "C:\\Users\\mehme\\.nuget\\packages\\",
-        "outputPath": "D:\\repos\\DietApp\\DietApp.BL\\obj\\",
+        "outputPath": "D:\\repos\\MyGitHubSpace-DietApp\\DietApp.BL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mehme\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\repos\\DietApp\\DietApp.DAL\\DietApp.DAL.csproj": {
-                "projectPath": "D:\\repos\\DietApp\\DietApp.DAL\\DietApp.DAL.csproj"
+              "D:\\repos\\MyGitHubSpace-DietApp\\DietApp.DAL\\DietApp.DAL.csproj": {
+                "projectPath": "D:\\repos\\MyGitHubSpace-DietApp\\DietApp.DAL\\DietApp.DAL.csproj"
               }
             }
           }
@@ -63,14 +63,14 @@
         }
       }
     },
-    "D:\\repos\\DietApp\\DietApp.DAL\\DietApp.DAL.csproj": {
+    "D:\\repos\\MyGitHubSpace-DietApp\\DietApp.DAL\\DietApp.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\repos\\DietApp\\DietApp.DAL\\DietApp.DAL.csproj",
+        "projectUniqueName": "D:\\repos\\MyGitHubSpace-DietApp\\DietApp.DAL\\DietApp.DAL.csproj",
         "projectName": "DietApp.DAL",
-        "projectPath": "D:\\repos\\DietApp\\DietApp.DAL\\DietApp.DAL.csproj",
+        "projectPath": "D:\\repos\\MyGitHubSpace-DietApp\\DietApp.DAL\\DietApp.DAL.csproj",
         "packagesPath": "C:\\Users\\mehme\\.nuget\\packages\\",
-        "outputPath": "D:\\repos\\DietApp\\DietApp.DAL\\obj\\",
+        "outputPath": "D:\\repos\\MyGitHubSpace-DietApp\\DietApp.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mehme\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -87,8 +87,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\repos\\DietApp\\DietApp.Entities\\DietApp.Entities.csproj": {
-                "projectPath": "D:\\repos\\DietApp\\DietApp.Entities\\DietApp.Entities.csproj"
+              "D:\\repos\\MyGitHubSpace-DietApp\\DietApp.Entities\\DietApp.Entities.csproj": {
+                "projectPath": "D:\\repos\\MyGitHubSpace-DietApp\\DietApp.Entities\\DietApp.Entities.csproj"
               }
             }
           }
@@ -138,14 +138,14 @@
         }
       }
     },
-    "D:\\repos\\DietApp\\DietApp.Entities\\DietApp.Entities.csproj": {
+    "D:\\repos\\MyGitHubSpace-DietApp\\DietApp.Entities\\DietApp.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\repos\\DietApp\\DietApp.Entities\\DietApp.Entities.csproj",
+        "projectUniqueName": "D:\\repos\\MyGitHubSpace-DietApp\\DietApp.Entities\\DietApp.Entities.csproj",
         "projectName": "DietApp.Entities",
-        "projectPath": "D:\\repos\\DietApp\\DietApp.Entities\\DietApp.Entities.csproj",
+        "projectPath": "D:\\repos\\MyGitHubSpace-DietApp\\DietApp.Entities\\DietApp.Entities.csproj",
         "packagesPath": "C:\\Users\\mehme\\.nuget\\packages\\",
-        "outputPath": "D:\\repos\\DietApp\\DietApp.Entities\\obj\\",
+        "outputPath": "D:\\repos\\MyGitHubSpace-DietApp\\DietApp.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mehme\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -193,14 +193,14 @@
         }
       }
     },
-    "D:\\repos\\DietApp\\DietApp.PL\\DietApp.PL.csproj": {
+    "D:\\repos\\MyGitHubSpace-DietApp\\DietApp.PL\\DietApp.PL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\repos\\DietApp\\DietApp.PL\\DietApp.PL.csproj",
+        "projectUniqueName": "D:\\repos\\MyGitHubSpace-DietApp\\DietApp.PL\\DietApp.PL.csproj",
         "projectName": "DietApp.PL",
-        "projectPath": "D:\\repos\\DietApp\\DietApp.PL\\DietApp.PL.csproj",
+        "projectPath": "D:\\repos\\MyGitHubSpace-DietApp\\DietApp.PL\\DietApp.PL.csproj",
         "packagesPath": "C:\\Users\\mehme\\.nuget\\packages\\",
-        "outputPath": "D:\\repos\\DietApp\\DietApp.PL\\obj\\",
+        "outputPath": "D:\\repos\\MyGitHubSpace-DietApp\\DietApp.PL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mehme\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -217,8 +217,8 @@
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "D:\\repos\\DietApp\\DietApp.BL\\DietApp.BL.csproj": {
-                "projectPath": "D:\\repos\\DietApp\\DietApp.BL\\DietApp.BL.csproj"
+              "D:\\repos\\MyGitHubSpace-DietApp\\DietApp.BL\\DietApp.BL.csproj": {
+                "projectPath": "D:\\repos\\MyGitHubSpace-DietApp\\DietApp.BL\\DietApp.BL.csproj"
               }
             }
           }

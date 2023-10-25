@@ -9,3 +9,14 @@ D:\repos\DietApp\DietApp.Entities\obj\Debug\net6.0\DietApp.Entities.dll
 D:\repos\DietApp\DietApp.Entities\obj\Debug\net6.0\refint\DietApp.Entities.dll
 D:\repos\DietApp\DietApp.Entities\obj\Debug\net6.0\DietApp.Entities.pdb
 D:\repos\DietApp\DietApp.Entities\obj\Debug\net6.0\ref\DietApp.Entities.dll
+D:\repos\MyGitHubSpace-DietApp\DietApp.Entities\bin\Debug\net6.0\DietApp.Entities.deps.json
+D:\repos\MyGitHubSpace-DietApp\DietApp.Entities\bin\Debug\net6.0\DietApp.Entities.dll
+D:\repos\MyGitHubSpace-DietApp\DietApp.Entities\bin\Debug\net6.0\DietApp.Entities.pdb
+D:\repos\MyGitHubSpace-DietApp\DietApp.Entities\obj\Debug\net6.0\DietApp.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\MyGitHubSpace-DietApp\DietApp.Entities\obj\Debug\net6.0\DietApp.Entities.AssemblyInfoInputs.cache
+D:\repos\MyGitHubSpace-DietApp\DietApp.Entities\obj\Debug\net6.0\DietApp.Entities.AssemblyInfo.cs
+D:\repos\MyGitHubSpace-DietApp\DietApp.Entities\obj\Debug\net6.0\DietApp.Entities.csproj.CoreCompileInputs.cache
+D:\repos\MyGitHubSpace-DietApp\DietApp.Entities\obj\Debug\net6.0\DietApp.Entities.dll
+D:\repos\MyGitHubSpace-DietApp\DietApp.Entities\obj\Debug\net6.0\refint\DietApp.Entities.dll
+D:\repos\MyGitHubSpace-DietApp\DietApp.Entities\obj\Debug\net6.0\DietApp.Entities.pdb
+D:\repos\MyGitHubSpace-DietApp\DietApp.Entities\obj\Debug\net6.0\ref\DietApp.Entities.dll

@@ -47,12 +47,13 @@ namespace DietApp.PL
             MealPanel_gb_MealEditGroupBox.Enabled = false;
             MealPanel_btn_UpdateClose.Visible = false;
 
-            LoginPanel_lb_Title.Text = "Kalori Takip Sistemim";
+            LoginPanel_lb_Title.Text = "Kalori Takip Sistemi";
 
-            LoginPanel_lb_Context.Text = "Kalori Takip Sistemi olarak amacımız kullanıcının almış\n" +
-                                         "olduğu calorilerinin öğün bazında kayıdını tutmak ve\n" +
-                                         "günlük,haftalık ve aylık periyotlarda takibini sağlamaktır.\n" +
-                                         "Sağlıklı günler dileriz :)";
+            //LoginPanel_lb_Context.Text = "Kalori Takip Sistemi'nde amacımız kullanıcının almış\n" +
+            //                             "olduğu kalori öğün bazında kayıdını tutmak ve\n" +
+            //                             "günlük,haftalık ve aylık periyotlarda takibini sağlamaktır.\n" +
+            //                             "Sağlıklı günler dileriz :)";
+            LoginPanel_lb_Context.Text = "";
             RegisterPanel_lb_Title.Text = LoginPanel_lb_Title.Text;
             RegisterPanel_lb_Context.Text = LoginPanel_lb_Context.Text;
 
