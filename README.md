@@ -1,4 +1,4 @@
-An NTier and code-first diet tracking app powered by Entity Framework Core which works with a database on MS SQL Server and has a WinForms UI for presantation layer, having numerous functionalities: 
+An NTier diet tracking app which implements Entity Framework Core, MS SQL Server and WinForms: 
 - Profile-based structure.
 - Customizable personal food catalog with database support.
 - Daily calorie report and other various comparative reports. 
