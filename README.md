@@ -1,4 +1,4 @@
-An NTier diet tracking app which implements Entity Framework Core, MS SQL Server and WinForms: 
+A NTier diet tracking app which implements Entity Framework Core, MS SQL Server and WinForms: 
 
 Login Screen:
 ![Screenshot 2023-10-25 235020](https://github.com/mukumbasar/DietTrackingApp/assets/93601245/30d482d7-fbeb-49d2-bdb7-2d68cfe5897e)
